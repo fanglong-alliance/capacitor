@@ -1,5 +1,6 @@
 {
   "name": "capacitor",
+  "version": "4.7.1",
   "private": true,
   "scripts": {
     "ci:publish:latest": "lerna publish --conventional-commits --dist-tag latest --force-publish --no-verify-access --yes",
